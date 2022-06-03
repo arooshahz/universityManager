@@ -1,0 +1,15 @@
+2
+982023001	Ali Alavi	9000	3
+TechnicalEnglish	171100602	2	50
+DatabaseLaboratory	171103803	1	30
+DifferentialEquations	171102701	3	40
+992023040	Reza Razavi	6000	2
+ComputerNetworks	171103201	3	40
+ArtificialIntelligence	171104803	3	30
+6
+DifferentialEquations	171102701	3	40
+AdvancedProgramming	171100101	3	20
+TechnicalEnglish	171100602	2	50
+DatabaseLaboratory	171103803	1	30
+ComputerNetworks	171103201	3	40
+ArtificialIntelligence	171104803	3	30
